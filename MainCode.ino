@@ -5,8 +5,8 @@
 #define WIFI_SSID "Sproutify"
 #define WIFI_PASSWORD "sproutify"
 
-#define FIREBASE_HOST "https://sproutify-3a23c-default-rtdb.asia-southeast1.firebasedatabase.app/"
-#define FIREBASE_AUTH "yxECGsRju1Gp3lOiLETzjzOsfQXpRswFrhZALnIu"  // Firebase Authentication token
+#define FIREBASE_HOST "Link To Your Firebase"
+#define FIREBASE_AUTH "Your Secret Key"  // Firebase Authentication token
 
 FirebaseData firebaseData;
 FirebaseAuth auth;
